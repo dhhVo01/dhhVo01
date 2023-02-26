@@ -56,16 +56,16 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100080307701752" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100080307701752" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dangvhh-facebook" />
   </a>
-  <a href="https://instagram.com/dang.vhh/" target="blank">
+  <a href="https://instagram.com/dang.vhh/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="danvhh-instagram" />
   </a>
   <a href="mailto:vohuynhhaidang24032001@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="danvhh-email" />
   </a>
-    <a href="https://dangvhh.netlify.app/" target="blank">
+    <a href="https://dangvhh.netlify.app/" target="_blank">
     <img src="https://img.icons8.com/bubbles/1x/brown-hair-lady-window.png" alt="dangvhh-website" />
   </a>
 </div>
